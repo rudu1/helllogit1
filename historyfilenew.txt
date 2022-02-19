@@ -1,0 +1,199 @@
+    1  git config --list
+    2  git add in.txt
+    3  git log
+    4  git init
+    5  git log
+    6  git add file.txt
+    7  git add file
+    8  git notepad
+    9  git --help
+   10  git status
+   11  git commit
+   12  git create file.txt
+   13  pwd
+   14  ls
+   15  git status
+   16  git config --global user.email [200~
+   17  git config --global user.email rudbanks12@gmail.com
+   18  git config --global user.name coderperson
+   19  git status
+   20  git config --list
+   21  history
+   22  clear
+   23  git add contact.html
+   24  git add contact.html
+   25* GIT STAS
+   26  git status
+   27  git add contact.html
+   28  git add contact.html.txt
+   29  clear
+   30  git rm -cached*
+   31  git rm --cached*
+   32  git rm --cached *
+   33  git status
+   34  git rm --cached contact.html.txt
+   35  git rm --cached contact.html
+   36  git rm --cached contact.html.txt 
+   37  git add -A
+   38  notepad hello.txt
+   39  git status
+   40  git add hello.txt 
+   41  git status
+   42  ls
+   43  ls -a
+   44  ls .git/
+   45  touch names.txt
+   46  vm names.txt 
+   47  vi names.txt 
+   48  vi names.txt 
+   49  git status
+   50  git log
+   51  git commit
+   52  git log
+   53  git commit -m added hello
+   54  git ls-files
+   55  git commit -m "hello"
+   56  git status
+   57  git add -A
+   58  git status
+   59  git log
+   60  history >>filehistory.txt
+   61  vi filehistory.txt 
+   62  git status
+   63  git add -A
+   64  git status
+   65  git add*
+   66  git add *
+   67  git log
+   68  git commit -m "hello"
+   69  git commit -m 
+   70  git log
+   71  git reset
+   72  git log
+   73  git status
+   74  git undo
+   75  git bundle
+   76  ls
+   77  git status
+   78  git add *
+   79  git status
+   80  git commit -m "hello added new"
+   81  git commit -m "hello added new"
+   82  git log
+   83  git status
+   84  reset --help
+   85  vi contact.html.txt 
+   86  mv contact.html.txt conttact.html
+   87  ls
+   88  ls 
+   89  ls -ll
+   90  git commit
+   91  git add -A
+   92  git status
+   93  git log
+   94  vi conttact.html 
+   95  git add -A
+   96  git log
+   97  git -m commit "changed something in contact.html"
+   98  git --m commit "changed something in contact.html"
+   99  git commit
+  100  git commit -m "changes in contact.html"
+  101  git log
+  102* git reset dec505eb93b44634b44f7bde7a10478121a3d66dec505eb93b44634b44f7bde7a10478121a3d66e
+  103  git log
+  104  git reset dec505eb93b44634b44f7bde7a10478121a3d66e
+  105  git log
+  106  git add *
+  107  git commit -m "hello2"
+  108  git log
+  109  vi conttact.html 
+  110  git log
+  111  git status
+  112  git commit -m "hello2"
+  113  vi names.txt 
+  114  git commit -m "hello2"
+  115  git log
+  116  git commit -m "hello2"
+  117  git status
+  118  git add -A
+  119  git status
+  120  git commit -m "hello2"
+  121  git log
+  122  git show
+  123  git show 4ce2bb8f52108a2f02c856f1b78cc33acdac48b8
+  124  it log
+  125  git log
+  126  git reset dec505eb93b44634b44f7bde7a10478121a3d66e
+  127  git status
+  128  vi names.txt 
+  129  ls
+  130  git log
+  131  git diff -staged
+  132  git diff --staged
+  133  git add -A
+  134  git diff --staged
+  135  git status
+  136  vi s 
+  137  ls
+  138  desc s
+  139  git log
+  140  git show
+  141  git diff
+  142  git diff --staged
+  143  git master
+  144  git --help
+  145  git diff
+  146  vi names.txt 
+  147  git diff
+  148  git status
+  149  git add -A
+  150  git commit -m "hello3"
+  151  ls
+  152  git log
+  153  git diff
+  154  git diff --stageedf
+  155  git diff --staged
+  156  git diff --staged
+  157  git log
+  158  git reset dec505eb93b44634b44f7bde7a10478121a3d66e
+  159  git log
+  160  git status
+  161  git add *
+  162  git add -A
+  163  git log
+  164  git commit -m "hello3"
+  165  git diff
+  166  git diff --staged
+  167  git  log --pretty=oneline
+  168  git  log --pretty=oneline --author=codeperson
+  169  git  log --pretty=oneline --author=
+  170  git log
+  171  git  log --pretty=oneline --author=codeperson
+  172  git  log --pretty=oneline --author=
+  173  git  log --pretty=oneline 
+  174  echo log.txt
+  175  git author
+  176  git remote add origin https://github.com/rudu1/helllogit1.git
+  177  git remote -v
+  178  git push origin master
+  179  git push origin master
+  180  git push -u origin master
+  181  git push origin master
+  182  git status
+  183  git push origin master
+  184  git remote -v
+  185  git fetch origin master
+  186  ls origin master
+  187  git push origin master
+  188  git push -u origin master
+  189  git pull
+  190  git push -u origin master
+  191  gitnore
+  192  clear
+  193  git push 
+  194  git push origin
+  195  git push origin master
+  196  git push --help
+  197* 
+  198  git push origin master
+  199  history >> filenew.txt
