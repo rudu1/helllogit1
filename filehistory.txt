@@ -1,0 +1,60 @@
+    1  git config --list
+    2  git add in.txt
+    3  git log
+    4  git init
+    5  git log
+    6  git add file.txt
+    7  git add file
+    8  git notepad
+    9  git --help
+   10  git status
+   11  git commit
+   12  git create file.txt
+   13  pwd
+   14  ls
+   15  git status
+   16  git config --global user.email [200~
+   17  git config --global user.email rudbanks12@gmail.com
+   18  git config --global user.name coderperson
+   19  git status
+   20  git config --list
+   21  history
+   22  clear
+   23  git add contact.html
+   24  git add contact.html
+   25* GIT STAS
+   26  git status
+   27  git add contact.html
+   28  git add contact.html.txt
+   29  clear
+   30  git rm -cached*
+   31  git rm --cached*
+   32  git rm --cached *
+   33  git status
+   34  git rm --cached contact.html.txt
+   35  git rm --cached contact.html
+   36  git rm --cached contact.html.txt 
+   37  git add -A
+   38  notepad hello.txt
+   39  git status
+   40  git add hello.txt 
+   41  git status
+   42  ls
+   43  ls -a
+   44  ls .git/
+   45  touch names.txt
+   46  vm names.txt 
+   47  vi names.txt 
+   48  vi names.txt 
+   49  git status
+   50  git log
+   51  git commit
+   52  git log
+   53  git commit -m added hello
+   54  git ls-files
+   55  git commit -m "hello"
+   56  git status
+   57  git add -A
+   58  git status
+   59  git log
+   60  history >>filehistory.txt
